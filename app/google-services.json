@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "584959970834",
+    "project_id": "aplikasi-berita-a3809",
+    "storage_bucket": "aplikasi-berita-a3809.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584959970834:android:951082e402f46d467ad2cb",
+        "android_client_info": {
+          "package_name": "com.anggapambudi.aplikasiberita"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "584959970834-r7vupq2du4g409js6ehtrre03vt8l8bs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.anggapambudi.aplikasiberita",
+            "certificate_hash": "2d34fe8dbb0e11cb9b2cd1e22b84efba1a824ca6"
+          }
+        },
+        {
+          "client_id": "584959970834-0qug5j3c9rvuf0j46j7s8n6tjedt3cla.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcd7XimAGChDtBH3D9uOTWuGIr3M62Hrc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "584959970834-0qug5j3c9rvuf0j46j7s8n6tjedt3cla.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
